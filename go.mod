@@ -1,6 +1,6 @@
 module github.com/suosi-inc/go-pkg-spider
 
-go 1.18
+go 1.24.0
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.1
